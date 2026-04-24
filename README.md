@@ -8,7 +8,7 @@ Designed for learning, customization, and real-world usage in modern React apps.
 
 <div align="center">
   <p float="left">
-    <img src="src/assets/images/screenshot.png" width="100%" />
+    <img src="src/assets/screenshot.png" width="100%" />
   </p>
 </div>
 
